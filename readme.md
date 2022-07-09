@@ -1,4 +1,4 @@
 lc
 fist 
-git 
+tech 
 demo!
